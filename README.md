@@ -13,7 +13,7 @@ A smart task management application with automated priority assignment and seaml
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tu_usuario/TaskManagerPro.git
+   git clone https://github.com/dcosodev/taskmanagerpro.git
    cd TaskManagerPro
    ```
 
